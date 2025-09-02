@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://botanicalhomeshop.com/sitemap.xml
